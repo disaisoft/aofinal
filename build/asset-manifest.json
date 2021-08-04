@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/static/css/main.966d5f33.chunk.css",
+    "main.js": "/static/js/main.003a31a4.chunk.js",
+    "main.js.map": "/static/js/main.003a31a4.chunk.js.map",
+    "runtime~main.js": "/static/js/runtime~main.a8a9905a.js",
+    "runtime~main.js.map": "/static/js/runtime~main.a8a9905a.js.map",
+    "static/css/2.266e55a5.chunk.css": "/static/css/2.266e55a5.chunk.css",
+    "static/js/2.1310da30.chunk.js": "/static/js/2.1310da30.chunk.js",
+    "static/js/2.1310da30.chunk.js.map": "/static/js/2.1310da30.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.538a7b532d03ea21814336a405bd3190.js": "/precache-manifest.538a7b532d03ea21814336a405bd3190.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/2.266e55a5.chunk.css.map": "/static/css/2.266e55a5.chunk.css.map",
+    "static/css/main.966d5f33.chunk.css.map": "/static/css/main.966d5f33.chunk.css.map",
+    "static/media/24HORAS.jpg": "/static/media/24HORAS.76416311.jpg",
+    "static/media/CIRUGIA_ORAL.jpg": "/static/media/CIRUGIA_ORAL.e5d32cfc.jpg",
+    "static/media/CLIENTE-3---.jpg": "/static/media/CLIENTE-3---.33b9debc.jpg",
+    "static/media/Consultorio.png": "/static/media/Consultorio.1cbc71b7.png",
+    "static/media/ENDODONCIA.jpg": "/static/media/ENDODONCIA.cbac52f8.jpg",
+    "static/media/HIGIENE_ORAL.jpg": "/static/media/HIGIENE_ORAL.704ffcc0.jpg",
+    "static/media/IMPLANTES_2.jpg": "/static/media/IMPLANTES_2.9d280769.jpg",
+    "static/media/LABORATORIO.jpg": "/static/media/LABORATORIO.b646a615.jpg",
+    "static/media/ODONTOLOGIA_ESTETICA.jpg": "/static/media/ODONTOLOGIA_ESTETICA.cd9795d8.jpg",
+    "static/media/PERIODONCIA.jpg": "/static/media/PERIODONCIA.cb5e1380.jpg",
+    "static/media/URGENCIAS_ODONTOLOGICAS.jpg": "/static/media/URGENCIAS_ODONTOLOGICAS.b05f9368.jpg",
+    "static/media/cliente-4--.jpg": "/static/media/cliente-4--.43df5390.jpg",
+    "static/media/cliente-5--.jpg": "/static/media/cliente-5--.38de2cf5.jpg",
+    "static/media/consultoria.JPG": "/static/media/consultoria.076bd606.JPG",
+    "static/media/logo_alternativas_odontológicas-removebg.png": "/static/media/logo_alternativas_odontológicas-removebg.d8798622.png"
+  }
+}
