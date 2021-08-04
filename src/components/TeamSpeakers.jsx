@@ -31,7 +31,7 @@ const TeamSpeakers = () => {
                             </div>
                             <h5 className="card-title mb-0">Urgencias Odontológicas</h5>
                             <p className="card-text">Dolor en los dientes, fracturas, sangrado de encías, abscesos, lesiones generadas por traumatismos.</p>
-                            <a className="btn btn-danger " href="tel:+573002161403">Lamar Ahora</a>
+                            <a className="btn btn-danger " href="tel:3002161403">Lamar Ahora</a>
                         </div>
                     </div>
                 </div>
@@ -45,7 +45,7 @@ const TeamSpeakers = () => {
                             </div>
                             <h5 className="card-title mb-0">Laboratorio</h5>
                             <p className="card-text">Tenemos disponibilidad para realizar prótesis provisionales inmediatas en caso de urgencias, en el menor tiempo posible.</p>
-                            <a className="btn btn-danger " href="tel:+573002161403">Lamar Ahora</a>
+                            <a className="btn btn-danger " href="tel:3002161403">Lamar Ahora</a>
                         </div>
                     </div>
                 </div>
@@ -59,7 +59,7 @@ const TeamSpeakers = () => {
                                 </div>
                             <h5 className="card-title mb-0">Disponibilidad 24 Horas</h5>
                             <p className="card-text">Atendemos su emergencia en el momento que usted lo necesita con sólo una llamada previa.</p>
-                            <a className="btn btn-danger " href="tel:+573002161403">Lamar Ahora</a>
+                            <a className="btn btn-danger " href="tel:3002161403">Lamar Ahora</a>
                         </div>
                     </div>
                 </div>
@@ -75,7 +75,7 @@ const TeamSpeakers = () => {
                             </div>
                             <h5 className="card-title mb-0 ">Odontología Estetica Natural</h5>
                             <p className="card-text">Nuestras técnicas de rehabilitación siempre estarán enfocadas hacia la estética natural.</p>
-                            <a className="btn btn-danger " href="tel:+573002161403">Lamar Ahora</a>
+                            <a className="btn btn-danger " href="tel:3002161403">Lamar Ahora</a>
                         </div>
                     </div>
                 </div>
@@ -89,7 +89,7 @@ const TeamSpeakers = () => {
                             </div>
                             <h5 className="card-title mb-0">Implantes Dentales</h5>
                             <p className="card-text">Nuestras técnicas de rehabilitación siempre estarán enfocadas hacia la estética natural.</p>
-                            <a className="btn btn-danger " href="tel:+573002161403">Lamar Ahora</a>
+                            <a className="btn btn-danger " href="tel:3002161403">Lamar Ahora</a>
                         </div>
                     </div>
                 </div>
@@ -103,7 +103,7 @@ const TeamSpeakers = () => {
                                 </div>
                             <h5 className="card-title mb-0">Periodocia</h5>
                             <p className="card-text">Tratamos la rehabilitación de todos los tejidos afectados que soportan todos nuestros dientes.</p> 
-                            <a className="btn btn-danger " href="tel:+573002161403">Lamar Ahora</a>
+                            <a className="btn btn-danger " href="tel:3002161403">Lamar Ahora</a>
                         </div>
                     </div>
                 </div>
@@ -119,7 +119,7 @@ const TeamSpeakers = () => {
                             </div>
                             <h5 className="card-title mb-0 ">Cirugía Oral</h5>
                             <p className="card-text">Tratamiento quirúrgico enfocado en atender las enfermedades que se producen en la boca, los maxilares y sus tejidos.</p> 
-                            <a className="btn btn-danger " href="tel:+573002161403">Lamar Ahora</a>
+                            <a className="btn btn-danger " href="tel:3002161403">Lamar Ahora</a>
                         </div>
                     </div>
                 </div>
@@ -133,7 +133,7 @@ const TeamSpeakers = () => {
                             </div>
                             <h5 className="card-title mb-0">Endodoncia</h5>
                             <p className="card-text">Procedimiento que trata los conductos o raíces del diente para eliminar caries profundas y así evitar la pérdida de las piezas dentales afectadas.</p> 
-                            <a className="btn btn-danger " href="tel:+573002161403">Lamar Ahora</a>
+                            <a className="btn btn-danger " href="tel:3002161403">Lamar Ahora</a>
                         </div>
                     </div>
                 </div>
@@ -147,7 +147,7 @@ const TeamSpeakers = () => {
                                 </div>
                             <h5 className="card-title mb-0">Higiene Oral</h5>
                             <p className="card-text">Aunque tengas una excelente higiene dental, es común que con el tiempo tus dientes acumulen placa bacteriana, la cual forma el sarro o los cálculos.</p>
-                            <a className="btn btn-danger " href="tel:+573002161403">Lamar Ahora</a>
+                            <a className="btn btn-danger " href="tel:3002161403">Lamar Ahora</a>
                         </div>
                     </div>
                 </div>
