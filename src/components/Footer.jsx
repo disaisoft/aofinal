@@ -67,7 +67,7 @@ class Footer extends Component {
                   <a
                     className="text-white p-3"
                     target="_blanck"
-                    href="https://www.linkedin.com/company/makaia/"
+                    href="#"
                   >
                     <FontAwesomeIcon
                       icon={["fab", "linkedin"]}
