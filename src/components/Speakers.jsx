@@ -20,20 +20,19 @@ const Speakers = () => {
                 </div>
             </div>
             <div className="container-fluid">
-
               <div id="carouselExampleControls" className="carousel slide mb-4" data-ride="carousel" >
                 <div className="carousel-inner">
                   <div className="carousel-item active">
-                    <img src={Cliente} className="d-block carrusel_cursos" alt="..." />
+                    <img src={Cliente} className="d-block carrusel_cursos center" alt="..." />
                   </div>
                   <div className="carousel-item">
-                    <img src={Cliente2} className="d-block carrusel_cursos " alt="..." />
+                    <img src={Cliente2} className="d-block carrusel_cursos center" alt="..." />
                   </div>
                   <div className="carousel-item">
-                    <img src={Cliente3} className="d-block carrusel_cursos " alt="..." />
+                    <img src={Cliente3} className="d-block carrusel_cursos center " alt="..." />
                   </div>
                   <div className="carousel-item">
-                    <img src={Cliente4} className="d-block carrusel_cursos " alt="..." />
+                    <img src={Cliente4} className="d-block carrusel_cursos center" alt="..." />
                   </div>
                 </div>
                 <a className="carousel-control-prev" href="#carouselExampleControls" role="button" data-slide="prev">
