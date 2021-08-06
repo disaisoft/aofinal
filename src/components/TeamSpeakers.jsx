@@ -88,7 +88,7 @@ const TeamSpeakers = () => {
                                     <span className="badge badge-info">Dentales</span>
                             </div>
                             <h5 className="card-title mb-0">Implantes Dentales</h5>
-                            <p className="card-text">Nuestras técnicas de rehabilitación siempre estarán enfocadas hacia la estética natural.</p>
+                            <p className="card-text">Solución para reemplazar un diente perdido. El tratamiento implica la introducción de un tornillo en el hueso, que sirve como base sólida para soportar el nuevo diente.</p>
                             <a className="btn btn-danger " href="tel:3002161403">Llamar Ahora</a>
                         </div>
                     </div>
