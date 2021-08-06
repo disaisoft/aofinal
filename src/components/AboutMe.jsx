@@ -19,7 +19,7 @@ class AboutMe extends Component {
           <FontAwesomeIcon icon="tools" size="7x" className="p-2" color="orange"/>
           <i className="fa fa-users fa-5x" aria-hidden="true"></i><br /><br />
             <h3>¿Qué hacemos?</h3>
-            <p>Urgencias Odontológicas hasta las 10PM, todos los días de la semana, en Medellín. <br/> Toma de radiografías en un sólo lugar. Sin filas y desplazamientos innecesarios. <br /><br /> Consulte su caso telefónicamente, para ser más objetivo en la solución acorde a su procedimiento.</p>
+            <p>Urgencias Odontológicas hasta las 10PM, todos los días de la semana, en Medellín. <br/> Toma de radiografías en un sólo lugar. Sin filas ni desplazamientos innecesarios. <br /><br /> Consulte su caso telefónicamente, para ser más objetivo en la solución acorde a su procedimiento.</p>
           </div>
           <div className="col-md-4 col-lg-4"><br />
           <FontAwesomeIcon icon="chalkboard-teacher" size="7x" className="p-2" color="orange"/>
