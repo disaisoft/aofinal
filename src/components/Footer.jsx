@@ -1,6 +1,8 @@
 import React, { Component } from "react";
 import Logo from "../images/logo_alternativas_odontológicas-removebg.png";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
+import { fat } from '@fortawesome/free-solid-svg-icons'
+
 import '../global.css';
 
 class Footer extends Component {
