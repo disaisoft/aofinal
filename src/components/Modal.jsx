@@ -6,7 +6,7 @@ const Modal = () => {
         <div className="modal-dialog modal-dialog-centered" role="document">
             <div className="modal-content">
             <div className="modal-header">
-                <h5 className="modal-title" id="modalCompraTitle">Comprar Tickets</h5>
+                <h5 className="modal-title" id="modalCompraTitle">Agendar Citas</h5>
                 <button type="button" className="close" data-dismiss="modal" aria-label="Close">
                 <span aria-hidden="true">&times;</span>
                 </button>
@@ -25,12 +25,12 @@ const Modal = () => {
                     </div>
                 </form>
                 <div className="alert alert-warning" role="alert">
-                    Recibirás un correo de confirmación si sales sorteado
+                    Recibirás un correo de confirmación para tu cita online
                 </div>
             </div>
             <div className="modal-footer">
                 <button type="button" className="btn btn-secondary" data-dismiss="modal">Cancelar</button>
-                <button type="button" className="btn btn-geek">Comprar</button>
+                <button type="button" className="btn btn-geek">Agendar</button>
             </div>
             </div>
         </div>
