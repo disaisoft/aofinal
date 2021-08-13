@@ -1,7 +1,10 @@
 import React, { Component } from "react";
 import Logo from "../images/logo_alternativas_odontológicas-removebg.png";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
-import { fat } from '@fortawesome/free-solid-svg-icons'
+import { faFacebookF } from '@fortawesome/free-brands-svg-icons';
+import { faInstagram } from '@fortawesome/free-brands-svg-icons'; 
+
+
 
 import '../global.css';
 
@@ -34,10 +37,10 @@ class Footer extends Component {
                     href="https://www.instagram.com/alternativasodontologicas/"
                   >
                     <FontAwesomeIcon
-                      icon={["fab", "facebook"]}
+                      icon={faInstagram}
                       size="4x"
                       className="p-2"
-                      color="blue"
+                      color="#C13584"
                     />
                     <i className="insta fa fa-instagram fa-3x" aria-hidden="true"></i>
                   </a>
@@ -47,10 +50,10 @@ class Footer extends Component {
                     href="https://www.facebook.com/alternativasodontologicas/"
                   >
                     <FontAwesomeIcon
-                      icon={["fab", "twitter"]}
+                      icon={faFacebookF}
                       size="4x"
                       className="p-2"
-                      color="aqua"
+                      color="#405DE6"
                     />
                     <i className="face fa fa-facebook-official fa-3x" aria-hidden="true"></i><br /><br />
                   </a>
