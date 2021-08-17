@@ -58,7 +58,7 @@ const TeamSpeakers = () => {
                                     <span className="badge badge-info">Inmediata</span>
                                 </div>
                             <h5 className="card-title mb-0">Disponibilidad 24 Horas</h5>
-                            <p className="card-text">Atendemos su emergencia en el momento que usted lo necesita con sólo una llamada previa.</p>
+                            <p className="card-text">Atendemos su emergencia en el momento que usted lo necesite con sólo una llamada previa.</p>
                             <a className="btn btn-danger " href="tel:3015343777">Llamar Ahora</a>
                         </div>
                     </div>
@@ -73,7 +73,7 @@ const TeamSpeakers = () => {
                                 <span className="badge badge-warning">Odontología</span>
                                 <span className="badge badge-info">Estética</span>
                             </div>
-                            <h5 className="card-title mb-0 ">Odontología Estetica Natural</h5>
+                            <h5 className="card-title mb-0 ">Odontología Estética Natural</h5>
                             <p className="card-text">Nuestras técnicas de rehabilitación siempre estarán enfocadas hacia la estética natural.</p>
                             <a className="btn btn-danger " href="tel:3015343777">Llamar Ahora</a>
                         </div>
@@ -101,7 +101,7 @@ const TeamSpeakers = () => {
                                     <span className="badge badge-warning">Periodoncia</span>
                                     <span className="badge badge-info">Rehabilitación</span>
                                 </div>
-                            <h5 className="card-title mb-0">Periodocia</h5>
+                            <h5 className="card-title mb-0">Periodoncia</h5>
                             <p className="card-text">Tratamos la rehabilitación de todos los tejidos afectados que soportan todos nuestros dientes.</p> 
                             <a className="btn btn-danger " href="tel:3015343777">Llamar Ahora</a>
                         </div>

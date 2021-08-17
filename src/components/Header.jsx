@@ -1,5 +1,6 @@
 import React from 'react';
 import Logo from '../images/logo_alternativas_odontológicas-removebg.png';
+import '../global.css';
 
 const Header = () => {
     return(

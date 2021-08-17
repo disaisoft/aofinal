@@ -1,6 +1,6 @@
 import React from 'react';
 import Slider1 from '../images/consultoria.JPG';
-
+import '../global.css';
 
 
 const Main = () => {
