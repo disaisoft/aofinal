@@ -1,5 +1,5 @@
 import React from 'react';
-import Slider1 from '../images/consultoria.JPG';
+import Slider1 from '../images/consultoria2.jpg';
 import '../global.css';
 
 
@@ -14,8 +14,8 @@ const Main = () => {
                
                 <div className="overlay">
                     <div className="container">
-                        <div className="row align-items-center">
-                            <div className="col-md-6 offset-md-6 text-center text-md-right">
+                        <div className="row align-items-center" >
+                            <div className="col-md-6 offset-md-6 text-center text-md-right " >
                                 <h1>Urgencias Odontológicas 24 horas con cita previa</h1>
                                 <p className="d-none d-md-block">En caso de urgencia que implique prótesis: contamos con laboratorio propio
                                 Para procedimientos y toma de Radiografías en un sólo lugar.
