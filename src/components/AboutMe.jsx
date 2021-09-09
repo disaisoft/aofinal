@@ -12,11 +12,10 @@ class AboutMe extends Component {
   render() {
     return (
       <div className="container text-center mt-5 mb-5">
-        
           <h1 className="mb-5" id='aboutme' >Consultorio Odontológico Particular</h1>
           <div className="" style={{display: 'flex', justifyContent: 'center'}} >
-            < ReactPlayer  url = 'https://vimeo.com/599828491' / ><br /><br />
-          </div>
+            < ReactPlayer  url = 'https://vimeo.com/599828491' / >
+          </div><br /><br />
         <div className="row">
           <div className="col-md-4 col-lg-4"><br />
             <FontAwesomeIcon icon={faSmileBeam} size="7x" className="p-2" color="orange"/>
