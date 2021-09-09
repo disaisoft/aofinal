@@ -28,9 +28,6 @@ const Header = () => {
                         <a className="nav-link" href="#conviertete-en-orador">Testimonios</a>
                 </li>
                 <li className="nav-item">
-                        <a className="nav-link" href="https://www.alternativasodontologicas.com/blog/">Blog</a>
-                </li>
-                <li className="nav-item">
                         <a className="nav-link text-ac-geek" href="tel:+573002161403">Contacto</a>
                 </li>
                 </ul>
