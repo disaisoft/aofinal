@@ -17,6 +17,7 @@
     "react-player": "^2.9.0",
     "react-scripts": "3.0.1"
   },
+  "homepage":"https://www.alternativasodontologicas.com/",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
